@@ -1,0 +1,22 @@
+h1 {
+    background-color: gray;
+    font-size: 500%;
+  }
+
+table {
+    background-color: gray;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-size: 110%;
+}
+
+body {
+    background-color: rgb(120, 4, 4);
+}
+
+label{
+  width: 193px;
+  color: white;
+}
